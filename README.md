@@ -1,3 +1,3 @@
 # cluster-heatmap
-isualization library built using D3.js that enables intuitive interaction with high-dimensional data.
+Visualization library built using D3.js that enables intuitive interaction with high-dimensional data.
 Clustergrammer is a web-based tool for visualizing high-dimensional data (e.g. a matrix) as an interactive and shareable hierarchically clustered heatmap. Clustergrammer's front end (Clustergrammer-JS) is built using D3.js and its back-end (Clustergrammer-PY) is built using Python. Clustergrammer produces highly interactive visualizations that enable intuitive exploration of high-dimensional data and has several biology-specific features (e.g. enrichment analysis, see Biology-Specific Features) to facilitate the exploration of gene-level biological data. Click the screenshot below to view an interactive tutorial:
